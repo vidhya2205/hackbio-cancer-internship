@@ -40,6 +40,7 @@ Figure <!--[if supportFields]><span
 style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>SEQ
 Figure \* ARABIC <span style='mso-element:field-separator'></span><![endif]-->1<!--[if supportFields]><span style='mso-element:
 field-end'></span><![endif]-->. RTK and PI3K association in cancer
+![Fig1. RTK and PI3K in cancer](Figure1.jpeg)
 
 **_PIK3CA_ mutations as a biomarker of TKI Response**
 
