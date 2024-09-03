@@ -25,16 +25,13 @@ In case of non-small cell lung cancer, _EGFR_ is a frequently mutated gene and s
 **Conclusion**
 
 Kinases are significant biomarkers in the field of cancer precision medicine providing new therapeutic targets and prognostic insights\[14-16]. Although, these lead to the development of TKI, it is evident for the need of more biomarkers such as _PIK3CA _mutations or other downstream kinases that predict the response to these TKIs and avoid adverse effects\[6-13, 17].
-1.dd
-2. ee
-
 
 **References**
 
-<!--[if !supportLists]-->1.      <!--[endif]-->Cheek S, Zhang H, Grishin NV. Sequence and structure classification of kinases. J Mol Biol. 2002 Jul 19;320(4):855-81. doi: 10.1016/s0022-2836(02)00538-7. PMID: 12095261.
+<!--[if !supportLists]-->1.      <!--[endif]-->Cheek S, Zhang H, Grishin NV. Sequence and structure classification of kinases. J Mol Biol. 2002 Jul 19;320(4):855-81. doi: 10.1016/s0022-2836(02)00538-7. PMID: 12095261.&#x20;
 
 
-  <!--[if !supportLists]-->2.      <!--[endif]-->Cicenas J, Zalyte E, Bairoch A, Gaudet P. Kinases and Cancer. Cancers (Basel). 2018 Mar 1;10(3):63. doi: 10.3390/cancers10030063. PMID: 29494549; PMCID: PMC5876638.
+  <!--[if !supportLists]-->2.      <!--[endif]-->Cicenas J, Zalyte E, Bairoch A, Gaudet P. Kinases and Cancer. Cancers (Basel). 2018 Mar 1;10(3):63. doi: 10.3390/cancers10030063. PMID: 29494549; PMCID: PMC5876638.&#x20;
 
 <!--[if !supportLists]-->3.      <!--[endif]-->Gotink KJ, Verheul HM. Anti-angiogenic tyrosine kinase inhibitors: what is their mechanism of action? Angiogenesis. 2010 Mar;13(1):1-14. doi: 10.1007/s10456-009-9160-6. Epub 2009 Dec 11. PMID: 20012482; PMCID: PMC2845892.
 
