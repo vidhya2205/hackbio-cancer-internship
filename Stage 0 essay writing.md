@@ -25,6 +25,9 @@ In case of non-small cell lung cancer, _EGFR_ is a frequently mutated gene and s
 **Conclusion**
 
 Kinases are significant biomarkers in the field of cancer precision medicine providing new therapeutic targets and prognostic insights\[14-16]. Although, these lead to the development of TKI, it is evident for the need of more biomarkers such as _PIK3CA _mutations or other downstream kinases that predict the response to these TKIs and avoid adverse effects\[6-13, 17].
+1.dd
+2. ee
+
 
 **References**
 
