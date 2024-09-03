@@ -28,10 +28,10 @@ Kinases are significant biomarkers in the field of cancer precision medicine pro
 
 **References**
 
-<!--[if !supportLists]-->1.      <!--[endif]-->Cheek S, Zhang H, Grishin NV. Sequence and structure classification of kinases. J Mol Biol. 2002 Jul 19;320(4):855-81. doi: 10.1016/s0022-2836(02)00538-7. PMID: 12095261. &#x20;
+<!--[if !supportLists]-->1.      <!--[endif]-->Cheek S, Zhang H, Grishin NV. Sequence and structure classification of kinases. J Mol Biol. 2002 Jul 19;320(4):855-81. doi: 10.1016/s0022-2836(02)00538-7. PMID: 12095261.
 
 
-<!--[if !supportLists]-->2.      <!--[endif]-->Cicenas J, Zalyte E, Bairoch A, Gaudet P. Kinases and Cancer. Cancers (Basel). 2018 Mar 1;10(3):63. doi: 10.3390/cancers10030063. PMID: 29494549; PMCID: PMC5876638.
+  <!--[if !supportLists]-->2.      <!--[endif]-->Cicenas J, Zalyte E, Bairoch A, Gaudet P. Kinases and Cancer. Cancers (Basel). 2018 Mar 1;10(3):63. doi: 10.3390/cancers10030063. PMID: 29494549; PMCID: PMC5876638.
 
 <!--[if !supportLists]-->3.      <!--[endif]-->Gotink KJ, Verheul HM. Anti-angiogenic tyrosine kinase inhibitors: what is their mechanism of action? Angiogenesis. 2010 Mar;13(1):1-14. doi: 10.1007/s10456-009-9160-6. Epub 2009 Dec 11. PMID: 20012482; PMCID: PMC2845892.
 
