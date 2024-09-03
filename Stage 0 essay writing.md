@@ -10,7 +10,7 @@ Kinases are enzymes that add phosphate groups to biomolecules and can be broadly
 
 Multiple kinases have been established as key biomarkers in cancer classification, targeted therapy and prognosis, some of which include ERBB2 (HER2), EGFR, MET, ALK, AKT2 \[2,5]. RTKs are of key importance in the field of precision oncology since patients with overexpression/ amplifications or mutations of these are administered with targeted therapies and show improved overall outcome compared to conventional therapies such as chemotherapy\[18-20]. Often, these kinases act together to promote their functions. Consequently, disruptions in the downstream kinase activity renders the upstream targeted therapies ineffective and hence serve as a biomarker. One such example is, in receptor tyrosine kinase(EGFR and ERBB2) activated cancer PI3K(another kinase) pathway activation results in reduced efficacy of TKI (tyrosine kinase inhibitors)\[6-10].
 
-![Figure1. RTK and PI3K in cancer](Figure1.jpeg)
+![Figure1. RTK and PI3K in cancer](Figure1.jpeg)<!--[endif]-->
 Figure <!--[if supportFields]><span
 style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>SEQ
 Figure \* ARABIC <span style='mso-element:field-separator'></span><![endif]-->1<!--[if supportFields]><span style='mso-element:
