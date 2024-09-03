@@ -10,33 +10,7 @@ Kinases are enzymes that add phosphate groups to biomolecules and can be broadly
 
 Multiple kinases have been established as key biomarkers in cancer classification, targeted therapy and prognosis, some of which include ERBB2 (HER2), EGFR, MET, ALK, AKT2 \[2,5]. RTKs are of key importance in the field of precision oncology since patients with overexpression/ amplifications or mutations of these are administered with targeted therapies and show improved overall outcome compared to conventional therapies such as chemotherapy\[18-20]. Often, these kinases act together to promote their functions. Consequently, disruptions in the downstream kinase activity renders the upstream targeted therapies ineffective and hence serve as a biomarker. One such example is, in receptor tyrosine kinase(EGFR and ERBB2) activated cancer PI3K(another kinase) pathway activation results in reduced efficacy of TKI (tyrosine kinase inhibitors)\[6-10].
 
-<!--[if gte vml 1]><v:shapetype id="_x0000_t75"
- coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
- filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_2" o:spid="_x0000_i1025" type="#_x0000_t75"
- style='width:381.5pt;height:149pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/vidhy/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg"
-  o:title=""/>
-</v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/vidhy/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)<!--[endif]-->
-
-![Fig1. RTK and PI3K in cancer](Figure1.jpeg)
+![Figure1. RTK and PI3K in cancer](Figure1.jpeg)
 
 **_PIK3CA_ mutations as a biomarker of TKI Response**
 
