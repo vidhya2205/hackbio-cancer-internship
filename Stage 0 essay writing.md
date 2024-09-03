@@ -36,10 +36,6 @@ Multiple kinases have been established as key biomarkers in cancer classificatio
   o:title=""/>
 </v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/vidhy/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)<!--[endif]-->
 
-Figure <!--[if supportFields]><span
-style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>SEQ
-Figure \* ARABIC <span style='mso-element:field-separator'></span><![endif]-->1<!--[if supportFields]><span style='mso-element:
-field-end'></span><![endif]-->. RTK and PI3K association in cancer
 ![Fig1. RTK and PI3K in cancer](Figure1.jpeg)
 
 **_PIK3CA_ mutations as a biomarker of TKI Response**
