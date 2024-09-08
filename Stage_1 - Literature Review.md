@@ -20,6 +20,7 @@ High-grade serous ovarian cancer (HGS-OvCa) accounts for about 70% of ovarian ca
 
 <div style='text-align: center;'>
   Fig1. Methodology followed in the study
+</div>
 
 3. **Results and discussion - What are the key takeaways from each analysis?**
 
