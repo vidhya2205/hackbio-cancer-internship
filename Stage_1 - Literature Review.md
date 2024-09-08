@@ -6,9 +6,9 @@
 
 Authors (@slack): Vidhyavathy Nagarajan(@Vidhya2205), Hayford Osei Offei(@Hayford72), Emmanuel Afolayemi(@EA(NOVACHRONO), Samuel Aladegbaiye (@Samuel…) 
 
-Github Repo: [vidhya2205/hackbio-cancer-internship at stage-1 (github.com)](https://github.com/vidhya2205/hackbio-cancer-internship/tree/stage-1)
+Github Link: https\://github.com/vidhya2205/hackbio-cancer-internship/blob/stage-1/Stage\_1%20-%20Literature%20Review\.md
 
-LinkedIn Post: 
+LinkedIn Post Link: 
 
 ### 1. Introduction- Key objective of the study
 
