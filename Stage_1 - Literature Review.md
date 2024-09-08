@@ -8,7 +8,7 @@ Authors (@slack): Vidhyavathy Nagarajan(@Vidhya2205), Hayford Osei Offei(@Hayfor
 
 Github Link: https\://github.com/vidhya2205/hackbio-cancer-internship/blob/stage-1/Stage\_1%20-%20Literature%20Review\.md
 
-LinkedIn Post Link: 
+LinkedIn Post Link: https://www.linkedin.com/posts/vn2_hackbio-biomarkeridentification-ovariancarcinoma-activity-7238448178558070784-wmPI?utm_source=share&utm_medium=member_desktop
 
 ### 1. Introduction- Key objective of the study
 
